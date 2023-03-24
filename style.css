@@ -1,0 +1,12 @@
+Body {
+    background-color: black;
+}
+
+h1 {
+    font-family: 'rp_veloceregular';
+    color: white;
+    font-size: 8rem;
+    letter-spacing: .2rem;
+    stroke: 0;
+    font-weight: 400;
+}
