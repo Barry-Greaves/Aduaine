@@ -6,7 +6,7 @@
 
 
 Body {
-    background-color: rgb(56, 56, 56);
+    background-color: rgb(23, 23, 23);
     margin: 0;
     padding: 0;
     font-family: "new-order", sans-serif;
@@ -133,8 +133,8 @@ nav #icon {
 }
 
 #slider {
-    width: 70vh;
-    height: 70vh;
+    width: 75vh;
+    height: 75vh;
     overflow: hidden;
     box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
     border: 1px solid white;
@@ -158,8 +158,8 @@ nav #icon {
   }
 
   #slider ul li img{
-    width: 70vh;
-    height: 70vh;
+    width: 75vh;
+    height: 75vh;
   }
 
   #slider #prev, #slider #next {
